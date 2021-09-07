@@ -22,7 +22,8 @@ public class DetailsActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 //Toast.makeText(getApplicationContext(),"Clicked",Toast.LENGTH_LONG).show();
-            } //Hellokonik
+                System.out.println("2nd Commit");
+            }
         });
 
 
