@@ -22,7 +22,7 @@ public class DetailsActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 //Toast.makeText(getApplicationContext(),"Clicked",Toast.LENGTH_LONG).show();
-                System.out.println("3rd Commit");
+                System.out.println("Fourth Commit");
             }
         });
 
